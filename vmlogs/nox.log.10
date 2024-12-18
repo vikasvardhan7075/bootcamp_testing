@@ -1,0 +1,106 @@
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : SetGlobleBaseName
+LINENUM  : 8363
+DETAIL   : _android_type = 4 
+
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : SetGlobleBaseName
+LINENUM  : 8363
+DETAIL   : _android_type = 5 
+
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : SetGlobleBaseName
+LINENUM  : 8363
+DETAIL   : _android_type = 7 
+
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : SetGlobleBaseName
+LINENUM  : 8363
+DETAIL   : _android_type = 8 
+
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : SetGlobleBaseName
+LINENUM  : 8363
+DETAIL   : _android_type = 9 
+
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : SetGlobleBaseName
+LINENUM  : 8363
+DETAIL   : _android_type = 12 
+
+TIME     : 2023-11-19 13:09:41
+FILE     : VBoxApi.cpp
+FUNCTION : VB_Init
+LINENUM  : 635
+DETAIL   : VBI_GetISession hr = 0
+
+TIME     : 2023-11-19 13:09:41
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 15296
+
+
+TIME     : 2023-11-19 13:09:41
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 9788
+
+
+TIME     : 2023-11-19 13:09:41
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 13748
+
+
+TIME     : 2023-11-19 13:09:41
+FILE     : WorkThread.cpp
+FUNCTION : CWorkThread::start
+LINENUM  : 68
+DETAIL   : WorkThread ID : 11580
+
+
+TIME     : 2023-11-19 13:09:44
+FILE     : VBoxApi.cpp
+FUNCTION : VB_ImportMachineEx
+LINENUM  : 6476
+DETAIL   : data2 vmdk
+
+TIME     : 2023-11-19 13:09:44
+FILE     : VBoxApi.cpp
+FUNCTION : VB_ImportMachineEx
+LINENUM  : 6526
+DETAIL   : Globle size 6
+
+TIME     : 2023-11-19 13:09:44
+FILE     : VBoxApi.cpp
+FUNCTION : VB_ImportMachineEx
+LINENUM  : 6551
+DETAIL   : data2 vmdk
+
+TIME     : 2023-11-19 13:09:44
+FILE     : VBoxApi.cpp
+FUNCTION : VB_ImportMachineEx
+LINENUM  : 6558
+DETAIL   : Globle size 6
+
+TIME     : 2023-11-19 13:09:44
+FILE     : CloneHD.cpp
+FUNCTION : CCloneHD::exec
+LINENUM  : 81
+DETAIL   : ErrorCode is "126". Detail : VB_ERR_FILE_REMOVE_FAILED
+
+TIME     : 2023-11-19 13:10:24
+FILE     : VBoxApi.cpp
+FUNCTION : VB_SetParavirtProvider
+LINENUM  : 5858
+DETAIL   : provider already set!
+
